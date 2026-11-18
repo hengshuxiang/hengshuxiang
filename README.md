@@ -15,9 +15,6 @@
 
 ### Qualifications & Exams
 
-- 💻 **Software Designer (Intermediate Level)**<br>
-  Computer Technology and Software Professional Technical Qualification (Level) Examination
-- 🧾 **Junior Accounting Professional Qualification**<br>
-  National Accounting Professional and Technical Qualification Examination
-- 📊 **Financial Risk Manager (FRM) Exam**<br>
-  Passed Parts I and II · [Part I badge](https://my.garp.org/DigitalBadgeFRMI?id=003Po00000cQjGeIAK) · [Part II badge](https://my.garp.org/DigitalBadgeFRMII?id=003Po00000cQjGeIAK)
+- 💻 **Software Designer (Intermediate Level)** — Computer Technology and Software Professional Technical Qualification (Level) Examination
+- 🧾 **Junior Accounting Professional Qualification** — National Accounting Professional and Technical Qualification Examination
+- 📊 **Financial Risk Manager (FRM) Exam** — Passed Parts I and II · [Part I badge](https://my.garp.org/DigitalBadgeFRMI?id=003Po00000cQjGeIAK) · [Part II badge](https://my.garp.org/DigitalBadgeFRMII?id=003Po00000cQjGeIAK)
