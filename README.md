@@ -6,7 +6,7 @@
 
 > *I saw a towering Wheel. It was not before my eyes, nor behind me, nor on either side—it was everywhere at once.*
 >
-> — Jorge Luis Borges, *[The Writing of the God](https://www.columbia.edu/cu/spanish/courses/spanish3350/06sigloxxhisp/borgesescritura.html)*
+> — Jorge Luis Borges, *The Writing of the God*
 
 I’m a master’s student at **Xi’an Jiaotong University**, focusing on **Software Engineering** and **Financial Technology (FinTech)**.
 
@@ -14,6 +14,6 @@ I studied **Computational Finance** (Computer Science and Financial Engineering)
 
 ### Qualifications & Exams
 
-- **Software Designer (Intermediate Level)** — [Computer Technology and Software Professional Technical Qualification (Level) Examination](https://hrss.sz.gov.cn/szksy/cjwt/content/post_11024879.html)
-- **Junior Accounting Professional Qualification** — [National Accounting Professional and Technical Qualification Examination](https://kjs.mof.gov.cn/gongzuotongzhi/202511/t20251127_3977584.htm)
+- **Software Designer (Intermediate Level)** — Computer Technology and Software Professional Technical Qualification (Level) Examination
+- **Junior Accounting Professional Qualification** — National Accounting Professional and Technical Qualification Examination
 - **Financial Risk Manager (FRM) Exam: Passed Parts I and II** — [Part I badge](https://my.garp.org/DigitalBadgeFRMI?id=003Po00000cQjGeIAK) · [Part II badge](https://my.garp.org/DigitalBadgeFRMII?id=003Po00000cQjGeIAK)
